@@ -6,7 +6,7 @@ Combine with multiple cameras for cool masking tricks. Useful for creating fake 
  
 ## Getting Started
 
-Download the shader and put it in your Assets/Shaders directory. Make a material in Unity and set its shader to DepthMask, and experiment.
+Download the shader and put it in your project's Assets/shaders directory. Make a material in Unity and set its shader to DepthMask, and experiment.
 
 Good luck!
 
