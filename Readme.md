@@ -10,4 +10,4 @@ Download the shader and put it in your project's Assets/shaders directory. Make 
 
 Good luck!
 
--[@Doomlaser](https://twitter.com/Doomlaser)
+[@Doomlaser](https://twitter.com/Doomlaser)
