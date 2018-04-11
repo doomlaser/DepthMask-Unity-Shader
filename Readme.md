@@ -2,7 +2,7 @@
 
 This simple shader attached to a material is incredibly useful in @unity3d. Anything behind a mesh with it applied will be rendered invisible to your camera.
 
-Combine with multiple cameras for cool masking tricks. Useful for creating fake holes in geometry and UI applications.
+Combine with multiple cameras for cool masking tricks. Useful for creating fake holes in geometry, UI and AR applications.
  
 ## Getting Started
 
