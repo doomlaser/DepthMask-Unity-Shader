@@ -1,6 +1,5 @@
 // "Invisible" Occlusion Shader. Useful for AR, Masking, etc
-// From Mark Johns / Doomlaser
-// https://twitter.com/Doomlaser
+// Mark Johns / Doomlaser - https://twitter.com/Doomlaser
 
 Shader "DepthMask"
 {
