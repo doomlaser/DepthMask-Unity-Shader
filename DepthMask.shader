@@ -15,7 +15,7 @@ Shader "DepthMask"
         }
         Pass
         {
-            ColorMask 0 // Color will not be rendered.
+            ColorMask 0
 
             CGPROGRAM
             #pragma vertex vert
